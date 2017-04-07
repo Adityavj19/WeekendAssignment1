@@ -6,7 +6,6 @@
 #HELLO WORLD
 #PRACTICE MAKES PERFECT
 
-
 line_list = []
 
 n = 2
